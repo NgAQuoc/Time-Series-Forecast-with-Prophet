@@ -5,3 +5,11 @@
 Link: https://insights.magestore.com/posts/giai-thuat-time-series-forecasting
 
 Link: https://viblo.asia/p/tong-quan-ve-du-bao-chuoi-thoi-gian-y37LdwGYJov 
+
+## II. Paper của thư viện Prophet - Forecasting at Scale (2017)
+
+Link: https://peerj.com/preprints/3190/
+
+### 1. Abstract
+
+Forecasting là một nhiệm vụ phổ biến về khoa học dữ liệu giúp các tổ chức lập kế hoạch với khả năng của minh, thiết lặp mực tiêu và phát hiện sự bất thường. 
