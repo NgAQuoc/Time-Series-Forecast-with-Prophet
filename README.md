@@ -10,6 +10,8 @@ Với Link 1 kết luận: Đây chính là ý tưởng cơ bản cho lớp các
 
 Link: https://viblo.asia/p/tong-quan-ve-du-bao-chuoi-thoi-gian-y37LdwGYJov
 
+Dự báo chuỗi thời gian (Time Series Forecasting) là một kỹ thuật dự đoán các sự kiện thông qua một chuỗi thời gian. Nó dự đoán các sự kiện trong tương lai bằng cách phân tích các xu hướng trong quá khứ, với giả định rằng các xu hướng trong tương lai sẽ tương tự như vậy.
+
 File notebook: Overview_Algorithm.ipynb
 
 ## II. Paper của thư viện Prophet - Forecasting at Scale (2017)
