@@ -16,6 +16,8 @@ Dự báo chuỗi thời gian (Time Series Forecasting) là một kỹ thuật d
 
 File notebook: Overview_Algorithm.ipynb
 
+### Tính dừng và tự tương quan
+
 ## II. Paper của thư viện Prophet - Forecasting at Scale (2017)
 
 Link: https://peerj.com/preprints/3190/
