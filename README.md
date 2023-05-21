@@ -4,6 +4,8 @@
 
 Link: https://insights.magestore.com/posts/giai-thuat-time-series-forecasting
 
+[!Phân rã đường cong thời gian thực thành các phần](https://uploads-ssl.webflow.com/5e3a6b6029e8b285ad11a875/5f40cff628575ee1eac75327_4ca22a3a6cdb34b3466499c8e91e94ee2f483166.jpeg)
+
 Link: https://viblo.asia/p/tong-quan-ve-du-bao-chuoi-thoi-gian-y37LdwGYJov
 
 File notebook: Overview_Algorithm.ipynb
