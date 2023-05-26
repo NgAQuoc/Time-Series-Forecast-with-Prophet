@@ -26,4 +26,6 @@ Link: https://peerj.com/preprints/3190/
 
 Forecasting là một nhiệm vụ phổ biến về khoa học dữ liệu giúp các tổ chức lập kế hoạch với khả năng của minh, thiết lặp mực tiêu và phát hiện sự bất thường. 
 
-## III. Các phương thức và cách hoạt động năm trong các file note book.
+## III. Các phương thức và cách hoạt động của Prophet với python nằm trong các file note book.
+
+Quick Start - (Prophet_1.ipynb)
