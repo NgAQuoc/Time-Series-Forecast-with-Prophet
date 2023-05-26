@@ -28,4 +28,5 @@ Forecasting là một nhiệm vụ phổ biến về khoa học dữ liệu giú
 
 ## III. Các phương thức và cách hoạt động của Prophet với python nằm trong các file note book.
 
-Quick Start - (Prophet_1.ipynb)
+- Quick Start - (Prophet_1.ipynb)
+- Saturating Forecasts include: Forecasting Growth and Saturating Minimum (Prophet_2.ipynb)
