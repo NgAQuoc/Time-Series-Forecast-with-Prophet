@@ -31,3 +31,4 @@ Forecasting là một nhiệm vụ phổ biến về khoa học dữ liệu giú
 - Quick Start - (Prophet_1.ipynb)
 - Saturating Forecasts include: Forecasting Growth and Saturating Minimum (Prophet_2.ipynb)
 - Trend Changepoints include: Automatic changepoint detection in Prophet, Adjusting trend flexibility and Specifying the locations of the changepoints.(Propeht_3.ipynb)
+- Seasonality, Holiday Effects, And Regressors include: Modeling Holidays and Special Events, Built-in Country Holidays, Fourier Order for Seasonalities, Specifying Custom Seasonalities, Seasonalities that depend on other factors, Prior scale for holidays and seasonality, Additional regressors and Coefficients of additional regressors (Prophet_4.ipynb)
