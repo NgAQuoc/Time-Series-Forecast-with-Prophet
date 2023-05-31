@@ -34,4 +34,5 @@ Forecasting là một nhiệm vụ phổ biến về khoa học dữ liệu giú
 - Seasonality, Holiday Effects, And Regressors include: Modeling Holidays and Special Events, Built-in Country Holidays, Fourier Order for Seasonalities, Specifying Custom Seasonalities, Seasonalities that depend on other factors, Prior scale for holidays and seasonality, Additional regressors and Coefficients of additional regressors (Prophet_4.ipynb)
 - Multiolicative Seasonality (Prophet_5.ipynb)
 - Uncertainly Intervals include: Uncertainty in the trend and Uncertainty in seasonality (Prophet_6.ipynb)
+- Outlier (Prophet_7.ipynb)
 - 
