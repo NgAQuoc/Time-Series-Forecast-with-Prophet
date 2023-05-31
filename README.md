@@ -35,4 +35,4 @@ Forecasting là một nhiệm vụ phổ biến về khoa học dữ liệu giú
 - Multiolicative Seasonality (Prophet_5.ipynb)
 - Uncertainly Intervals include: Uncertainty in the trend and Uncertainty in seasonality (Prophet_6.ipynb)
 - Outlier (Prophet_7.ipynb)
-- 
+- Non-Daily Data include: Sub-daily data, Data with regular gaps, Monthly data and Holidays with aggregated data (Prophet_8.ipynb)
