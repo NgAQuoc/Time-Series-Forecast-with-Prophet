@@ -37,4 +37,4 @@ Forecasting là một nhiệm vụ phổ biến về khoa học dữ liệu giú
 - Outlier (Prophet_7.ipynb)
 - Non-Daily Data include: Sub-daily data, Data with regular gaps, Monthly data and Holidays with aggregated data (Prophet_8.ipynb)
 - Diagnostics include: Cross validation, Parallelizing cross validation and Hyperparameter tuning (Prophect_9.ipynb)
-- 
+-  Handling Shocks include: Case Study - Pedestrian Activity, Default model without any adjustments, Treating COVID-19 lockdowns as a one-off holidays, Sense checking the trend, Changes in seasonality between pre- and post-COVID and Further reading
